@@ -7,7 +7,7 @@ schema:
   types:
     ScheduledFargateTaskInput:
       type: object
-      description: "Input properties for Scheduled Fargate Task vishnu"
+      description: "Input properties for Scheduled Fargate Task piradeep"
       properties:
         desired_count:
           title: "Desired count"
